@@ -85,6 +85,8 @@ sora
 claude
 Anthropic
 
+豆包
+
 消费
 新消费
 消费电子
